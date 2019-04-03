@@ -1,1 +1,1 @@
-Udemy Ionic 4 by Maximilian Schwarzmüller
+Udemy Ionic 4 by Maximilian Schwarzmüller - Section: 3 (Ionic Component Basics)
